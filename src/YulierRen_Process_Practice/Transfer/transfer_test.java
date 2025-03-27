@@ -1,4 +1,4 @@
-package YulierRen_Process_Practice.transfer;
+package YulierRen_Process_Practice.Transfer;
 
 public class transfer_test {
     private static final int MAX_VALUE = 10000;
